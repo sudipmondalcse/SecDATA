@@ -1,3 +1,11 @@
+### Prerequisites :
+
+The required dependencies for **SecDATA** are Processor - Intel® Xeon(R) Silver 4215 CPU @ 2.50GHz × 16
+Memory – 128 gb
+OS - Ubuntu 18.04.5 LTS
+python version 2.7 <br/>
+**SecDATA** is tested to work under Ubuntu 18.04 and the important instructions to run it  are given below : - <br/>
+
 ### To start a run : <br/>
 
 Our computational configuration is as follows -
