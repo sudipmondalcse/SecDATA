@@ -1,10 +1,4 @@
-# SecDATA
-hi
-this is SecDATA
-
-
-
-Manual for TA work
+### To start a run : <br/>
 
 Our computational configuration is as follows -
 Processor - Intel® Xeon(R) Silver 4215 CPU @ 2.50GHz × 16
