@@ -3,7 +3,7 @@
 The required dependencies for **SecDATA** are Processor - Intel® Xeon(R) Silver 4215 CPU @ 2.50GHz × 16
 Memory – 128 gb
 OS - Ubuntu 18.04.5 LTS
-python version 2.7 <br/>
+python version 3.O <br/>
 **SecDATA** is tested to work under Ubuntu 18.04 and the important instructions to run it  are given below : - <br/>
 
 ### To start a run : <br/>
@@ -16,13 +16,13 @@ python version 2.7
 
 
 
-Step 1: python2 kmer_v1.2.py 21 SRR11771595.fa kmer95.txt
+Step 1: python kmer_v1.2.py 21 SRR11771595.fa kmer95.txt
 
-Step 2: python2 par_dictv2.py kmer95.txt kmer95 20		
+Step 2: python par_dictv2.py kmer95.txt kmer95 20		
 
-Step 3: python2 par_dfs.py kmer95.dictionary out95 100		
+Step 3: python par_dfs.py kmer95.dictionary out95 100		
 
-Step 4: python2 DFS_transcript.py kmer95.txt out95 
+Step 4: python DFS_transcript.py kmer95.txt out95 
 
 
 Step 5: Required to make proper format for next step
