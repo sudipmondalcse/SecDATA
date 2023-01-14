@@ -8,13 +8,7 @@ python version 3.O <br/>
 
 ### To start a run : <br/>
 
-Our computational configuration is as follows -
-Processor - Intel® Xeon(R) Silver 4215 CPU @ 2.50GHz × 16
-Memory – 128 gb
-OS - Ubuntu 18.04.5 LTS
-python version 2.7
-
-
+Our computational step as follows -
 
 Step 1: python kmer_v1.2.py 21 SRR11771595.fa kmer95.txt
 
